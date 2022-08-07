@@ -73,3 +73,17 @@
 [删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)| 中等| [go](/deleteDuplicatesII/maxLiu.go) | [go](/deleteDuplicatesII/jayLee.go)
 [反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)| 中等| [go](/reverseBetween/maxLiu.go) | [go](/reverseBetween/jayLee.go)
 [分隔链表](https://leetcode.cn/problems/partition-list/)| 中等| [go](/partition/maxLiu.go) | [go](/partition/jayLee.go)
+[有序链表转换二叉搜索树](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree/)| 中等| [go](/sortedListToBST/maxLiu.go) | [go](/sortedListToBST/jayLee.go)
+[二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)| 中等| [go](/flatten/maxLiu.go) | [go](/flatten/jayLee.go)
+
+### 树
+
+题目 | 难度 | max.liu | jay.lee
+-- |--|--|--
+[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)| 简单| [go](/preorderTraversal/maxLiu.go) | [go](/preorderTraversal/jayLee.go)
+
+### 栈和队列
+
+题目 | 难度 | max.liu | jay.lee
+-- |--|--|--
+[有效的括号](https://leetcode.cn/problems/valid-parentheses/)| 简单| [go](/isValid/maxLiu.go) | [go](/isValid/jayLee.go)
